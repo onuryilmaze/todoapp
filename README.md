@@ -1,6 +1,6 @@
 # To Do App project
 
-**Website url**: [Demo](SOON...)
+**Website url**: [Demo](https://nejitodoapp.netlify.app/)
 
 ## Features
 - **React**: The project leverages React for dynamic UI.
