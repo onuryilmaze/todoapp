@@ -15,7 +15,7 @@ git clone https://github.com/onuryilmaze/todoapp.git
 ```
 2. Navigate to the project folder
 ```
-cd question app
+cd to-do-app
 ```
 3. Install dependencies
 ```
